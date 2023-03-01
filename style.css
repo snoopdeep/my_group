@@ -1,0 +1,94 @@
+body{
+    text-align: center;
+   background-color: #F0A07C;
+}
+h1{
+    padding: 3% 15% 1%;
+    color: #4A274F;
+    font-size: 8rem;
+    text-shadow: 3px 0 rgb(225, 201, 201);
+    font-family: 'Bebas Neue', cursive;
+}
+p{
+    font-weight: 800;
+    font-size: 1.2rem;
+    color: #2e1919;
+    font-family: 'Montserrat';
+}
+footer{
+    font-size: 1rem;
+    color: #a46868;
+    font-family: sans-serif;
+}
+.persons{
+    margin: 5% auto 10%;
+    
+}
+.individual{
+    outline: none;
+    border: 1px solid #311135;
+    font-size: 2rem;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 500;
+    color: #dcb8bc;
+   /* text-shadow: 1px 0 #464646;*/
+    border-radius: 15px;
+    display: inline-block;
+    width: 125px;
+    height: 125px;
+    text-align:left;
+    margin: 10px;
+    background-color: white;
+
+}
+.aryan{
+    background-image: url(images/pic-6.jpg);
+    background-size: 109px;
+    width: 110px;
+}
+.raghav{
+    background-image: url(images/pic-8.jpg);
+    background-size: 109px;
+    width: 110px;
+}
+.snoop{
+    background-image: url(images/pic-11.jpg);
+    background-size: 109px;
+    width: 110px;
+}
+.hedo{
+    background-image: url(images/pic-10.jpg);
+    background-size: 108px;
+    width: 110px;
+}
+.sukla{
+    background-image: url(images/pic-9.jpg);
+    background-size: 108px;
+    width: 110px;
+}
+.mota{
+    background-image: url(images/pic-3.jpg);
+    background-size: 95px;
+    width: 110px;
+}
+.ajinkya{
+    background-image: url(images/pic-2.jpg);
+    background-size: 109px;
+    width: 110px;
+}
+.bhand{
+    background-image: url(images/pic-5.jpg);
+    background-size: 110px;
+    width: 110px;
+}
+.kar{
+    background-image: url(images/pic-7.jpg);
+    background-size: 109px;
+    width: 110px;
+}
+.dhakad{
+    background-image: url(images/pic-4.jpg);
+    background-size: 115px;
+    width: 110px;
+}
